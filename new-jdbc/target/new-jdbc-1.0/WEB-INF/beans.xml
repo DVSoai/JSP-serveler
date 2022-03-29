@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http: //www.w3.org/XMLSchema - instance "
+	xsi:schemaLocation="http://java.sun.com/xm1/ns/javaee
+http://java.sun.com/xml/ns/javaee/beans_1_0. xsd">
+</beans>
